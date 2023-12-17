@@ -50,7 +50,7 @@ code {
 }
 
 .btn {
-  border: 0.1px solid black;
+  border: 0.1px solid pink;
   outline: none;
   font-size: 1.5rem;
 }
@@ -62,14 +62,14 @@ button:hover:not(.orange) {
 }
 
 .orange {
-  background-color: orange;
+  background-color: pink;
 }
 
 .output {
   display: flex;
   justify-content: flex-end;
   grid-column: 1 / -1;
-  background-color: black;
+  background-color: #ADD8E6;
   color: azure;
   padding-inline: 0.5em;
   word-wrap: break-word;
